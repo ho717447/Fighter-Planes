@@ -1,2 +1,2 @@
 Hope Phillips - Task 1: Player
-- Task 2: Enemy
+Nicholas Trainer - Task 2: Enemy
